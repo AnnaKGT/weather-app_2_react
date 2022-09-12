@@ -1,9 +1,9 @@
 import React from "react";
 import axios from "axios";
 
-export default function Weather() {
+export default function Weather(props) {
   function showData(response) {
-    alert(`The weather in ${city} is ${response.data.weather[0].description}`);
+    let description = response.data.weather[0].description;
   }
 
   let city = "Lisbon";

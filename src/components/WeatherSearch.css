@@ -1,0 +1,32 @@
+.weatherSearching__inputForm {
+  padding: 0;
+}
+
+.weatherSearching__inputForm_currentLoc {
+  padding: 0 8px;
+}
+
+.weatherSearching__CF {
+  padding: 0;
+}
+
+.weatherSearch__currentTemp {
+  font-size: 52px;
+  margin-top: 12px;
+}
+
+.weatherSearch__currentTemp_dimension {
+  font-size: 18px;
+  vertical-align: top;
+}
+
+.waetherSearch__loader {
+  margin: 60px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.weatherSearch__forecast,
+.weatherSearch__todayDetails {
+  padding: 0 4px;
+}

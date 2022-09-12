@@ -1,0 +1,22 @@
+.details-card .current-details-name {
+  margin-bottom: 10px;
+  font-size: 14px;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+
+.details-card h3 {
+  font-size: 28px;
+  margin-bottom: 1px;
+  line-height: 1;
+}
+
+.details-card .details-description {
+  padding: 0 10px;
+  text-align: center;
+}
+
+.details-card .dimension {
+  font-weight: bold;
+  font-size: 14px;
+}

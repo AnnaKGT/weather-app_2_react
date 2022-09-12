@@ -1,13 +1,13 @@
 // import logo from "./logo.svg";
-import Weather from "./Weather";
+import Weather from "./components/Weather";
+import WeatherSearch from "./components/WeatherSearch";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello React!</h1>
-        <Weather />
+        <WeatherSearch />
       </header>
     </div>
   );
