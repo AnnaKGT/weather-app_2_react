@@ -1,6 +1,7 @@
 // import logo from "./logo.svg";
-import Weather from "./components/Weather";
-import WeatherSearch from "./components/WeatherSearch";
+import React from "react";
+
+import WeatherSearch from "./components/WeatherSearch.js";
 import "./App.css";
 
 function App() {
