@@ -1,7 +1,10 @@
 .App {
-  border: 1px solid rgb(210, 207, 229);
   max-width: 500px;
   margin: 40px auto;
+}
+
+.App-header {
+  border: 1px solid rgb(210, 207, 229);
   border-radius: 6px;
   padding: 25px 10px;
 }
