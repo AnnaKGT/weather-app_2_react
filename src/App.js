@@ -22,7 +22,7 @@ function App() {
         </span>
         <span> by </span>
         <a
-          href="https://deluxe-starship-7c78b0.netlify.app/about.html"
+          href="https://deluxe-starship-7c78b0.netlify.app/"
           rel="noopener noreferrer"
           target="_blank"
         >
