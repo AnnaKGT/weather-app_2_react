@@ -1,3 +1,10 @@
+This is a recreation of the Weather App by using the React framework.
+
+A WeatherApp using the OpenWeather API to display current temperature, humidity, windspeed, and air pressure. It also display the maximum and minimum temperature of the day and it show hourly forecast.The date and time are displayed using Javascript built-in-functions. It shows the weather details for one week.
+
+This project is using HTML, CSS, Bootstrap, Javascript and React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
